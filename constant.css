@@ -1,0 +1,414 @@
+
+a{
+  text-decoration:none;
+}
+
+.button{
+  width: 100px;
+  height:30px;
+  box-shadow: 1px 0px 1px #888888;
+  cursor: pointer;
+  display: inline-block;
+  border: 1px solid #888888;
+}
+
+.constant_line{
+  width: 100%;
+  text-align: center;
+}
+
+#constant_line1 .constant_line{
+  padding:10px 0px 0px;
+  font-size: 0px;
+}
+
+#constant_line_2_1{
+  display: inline-block;
+  text-align: center;
+  height: 30px;
+  line-height: 30px;
+}
+
+#constant_line2 .constant_content{
+  position: relative;
+  display: inline-block;
+}
+#constant_line2_1_input input{
+  width: 250px;
+  height: 30px;
+  font-size: 20px;
+}
+#constant_line2 .button{
+  color: white;
+  width: 250px;
+  height: 30px;
+  font-size: 20px;
+  background-color: #888888;
+  box-shadow: 0px 0px 10px #888888;
+  border-radius: 5px;
+  border: 1px solid #888888;
+  cursor: pointer;
+}
+#constant_line2 .test{
+  width: 200px;
+  height: 30px;
+  line-height: 30px;
+  text-align: left;
+  cursor:pointer;
+
+}
+
+#constant_line2 .test1{
+  width: 200px;
+  height: 30px;
+  line-height: 30px;
+  text-align: left;
+  border: 1px dashed red;
+  cursor:pointer;
+}
+
+#constant_line2 .test1_1{
+  border: 1px solid red;
+}
+
+#constant_line3 .question{
+  padding-top: 20px;
+  color: #888888;
+  font-size: 20px;
+}
+
+#constant_line3 .buttonbox{
+  width: 100%;
+  height: 100px;
+}
+
+#constant_line3 .button{
+  display: inline-block;
+  color: white;
+  border: 1px solid #888888;
+  border-radius: 5px;
+  width: 100px;
+  cursor: pointer;
+}
+
+#constant_line3 .buttonRed{
+  background-color: red;
+}
+#constant_line3 .buttonYellow{
+  background-color: yellow;
+  color: black;
+}
+#constant_line3 .buttonBlue{
+  background-color: blue;
+}
+#constant_line3 .buttonWrong{
+  background-color: transparent;
+  color: black;
+}
+
+#constant_line4 .question{
+  padding-top: 20px;
+  color: #888888;
+  font-size: 20px;
+}
+
+#constant_line4 .import{
+  display: inline-block;
+  width: 200px;
+  height: 30px;
+  border: 1px solid #888888;
+  text-align: left;
+  line-height: 30px;
+}
+
+#constant_line4 .button{
+  line-height: 30px;
+}
+
+
+
+
+
+#constant_button{
+  text-align: center;
+  margin-top: 44px;
+  display: inline-block;
+  height: 30px;
+  font-size: 20px;
+  padding:5px;
+  background-color: white;
+  box-shadow: 0px 0px 10px #888888;
+  cursor:pointer;
+}
+
+#caconstant_line5 .table{
+  display: inline-block;
+  margin-top: 20px;
+}
+
+#caconstant_line5 .table_t{
+  border-collapse: collapse;
+}
+
+#caconstant_line5_1_table_t th,td{
+  padding: 10px;
+  border: 1px #666 solid;
+  text-align: center;
+  width: 20%;
+}
+
+#caconstant_line5 .t_0{
+  background-color:#e2e2e2;
+}
+
+#caconstant_line5 .t_2_2{
+  background-color:#888888;
+  color: white;
+}
+
+#constant_line6 .roller{
+  position: relative;
+  width: 800px;
+  height: 273px;
+  display: inline-block;
+  background-color: green;
+  margin-top: 20px;
+}
+
+#constant_line6 img{
+  position: relative;
+  width: 100%;
+  height: 100%;
+
+}
+
+#constant_line7 .roller{
+  position: relative;
+  width: 600px;
+  height: 204px;
+  display: inline-block;
+  background-color: green;
+  margin-top: 20px;
+}
+
+#constant_line7 img{
+  position: relative;
+  width: 100%;
+  height: 100%;
+
+}
+
+#constant_line8 .stage{
+  display: inline-block;
+  position: relative;
+  margin-top: 50px;
+  width: 100%;
+  height: 400px;
+  background-color: transparent;
+
+}
+
+#constant_line8 .picture{
+  position: relative;
+  display: inline-block;
+  height: 388px;
+  width: 267px;
+  box-shadow: 0px 0px 10px #888888;
+  border: 6px solid #ffffff;
+
+}
+#constant_line8 img{
+  width: 100%;
+  height: 100%;
+}
+
+#constant_line8 .clickbutton{
+  display: inline-block;
+  position: relative;
+  margin-top: 20px;
+  width: 100%;
+  height: 50px;
+  background-color: transparent;
+
+}
+
+#constant_line8 .choosebutton{
+    position: relative;
+    display: inline-block;
+    width: 200px;
+    height: 40px;
+    background-color: grey;
+    top: 50%;
+    margin-top: -20px;
+    overflow: hidden;
+    text-align: center;
+    line-height: 40px;
+    color:white;
+    cursor: pointer;
+}
+
+#constant_line9  .selection{
+  position: relative;
+  display: inline-block;
+    margin-top: 20px;
+    font-size: 0px;
+}
+
+#constant_line9 .form_selection{
+  position: relative;
+  display: inline-block;
+  margin: 0px;
+
+}
+
+#constant_line9 .select{
+  position: relative;
+  display: inline-block;
+  width: 200px;
+  height: 20px;
+  text-align: center;
+}
+
+#constant_line9 .button{
+  position: relative;
+  display: inline-block;
+  width: 100px;
+  height: 18px;
+  border: 1px solid #888888;
+  line-height: 20px;
+  text-align: center;
+  overflow: hidden;
+  top: 6px;
+  font-size: 12px;
+}
+
+
+#constant_line10  .selection{
+  position: relative;
+  display: inline-block;
+    margin-top: 20px;
+    font-size: 0px;
+}
+
+#constant_line10 .form_selection{
+  position: relative;
+  display: inline-block;
+  margin: 0px;
+
+}
+
+#constant_line10 .select{
+  position: relative;
+  display: inline-block;
+  width: 200px;
+  height: 20px;
+  text-align: center;
+}
+
+
+
+#constant_line11 .inputarea{
+  height: 420px;
+  width: 420px;
+  top: 100px;
+  margin-bottom: 200px;
+  position: relative;
+  display: inline-block;
+  background-image: url(../bg.jpg);
+  box-shadow: 0px 0px 10px #888888;
+
+}
+
+#constant_line11 .logo{
+    width: 37px;
+    height: 37px;
+    display: inline-block;
+    position: absolute;
+    top: 40px;
+    left: 35px;
+}
+
+#constant_line11 img{
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+#constant_line11 .box{
+  width: 350px;
+  height: 200px;
+  display: inline-block;
+  position: absolute;
+  top: 80px;
+  left: 35px;
+  background-color: #ffffff;
+}
+
+#constant_line11 .button{
+  position: absolute;
+  display: inline-block;
+  background-color: rgb(106, 125, 143);
+  width: 350px;
+  height: 50px;
+  left:35px;
+  top: 320px;
+  border:0px;
+  text-align: center;
+  line-height: 50px;
+  color: white;
+}
+
+#constant_line11 .line{
+  width: 300px;
+  height: 1px;
+  background-color: #888888;
+  position: relative;
+  display: inline-block;
+}
+
+
+#constant_line11 .uninput{
+  margin-top: 50px;
+}
+
+
+#constant_line11 .input{
+  border: 0px;
+  display: inline-block;
+  position: relative;
+  width: 250px;
+  height: 50px;
+  font-size: 20px;
+}
+
+#constant_line11 .wronginput{
+  border: 0px;
+  display: inline-block;
+  position: relative;
+  width: 250px;
+  height: 50px;
+  font-size: 20px;
+  color: rgb(245, 50, 49);
+}
+
+
+#runblock{
+  width: 100%;
+}
+#run{
+  width: 100px;
+  height: 50px;
+  display: inline-block;
+}
+.run1{
+  background-color: red;
+}
+.run2{
+  background-color: green;
+}
+.run3{
+  background-color: blue;
+}
+.run4{
+  background-color: yellow;
+}
